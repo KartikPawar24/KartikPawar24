@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 Aliens, I'm Kartik</h1>
-<h3 align="center">I'm a Software Developer from India.</h3>
+<h3 align="center">I'm a Software Developer from India and a AI / ML Enthusiast.</h3>
 
 <p align="left"> <a href="https://twitter.com/itskartikpawar" target="blank"><img src="https://img.shields.io/twitter/follow/itskartikpawar?logo=twitter&style=for-the-badge" alt="itskartikpawar" /></a> </p>
 
