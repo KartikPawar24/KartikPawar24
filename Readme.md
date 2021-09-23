@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://c.tenor.com/3FFF1Q6-IT4AAAAC/wave-hi.gif" width="30" height="30"> Aliens, I'm Kartik</h1>
-<h3 align="center">I'm a Software Developer and a AI / ML Enthusiast from India.</h3>
+<h3 align="center">I'm a Software Developer and AI / ML Enthusiast from India.</h3>
 
 <p align="left"> <a href="https://twitter.com/itskartikpawar" target="blank"><img src="https://img.shields.io/twitter/follow/itskartikpawar?logo=twitter&style=for-the-badge" alt="itskartikpawar" /></a> </p>
 
