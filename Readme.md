@@ -100,3 +100,5 @@ width="40" height="40"/> </a>
 <a href="https://kaggle.com/kartikpawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kartikpawar" height="20" width="30" /></a>
 <a href="https://instagram.com/itskartikpawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itskartikpawar" height="20" width="30" /></a>
 </p>
+
+<br/>
