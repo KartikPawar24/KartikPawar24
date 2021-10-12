@@ -91,7 +91,7 @@ width="40" height="40"/> </a>
 
 <a href="https://github.com/KartikPawar24/github-readme-activity-graph"><img alt="Kartik Pawar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KartikPawar24&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
+<hr/>
 <h3 align="left">Connect with me on other platforms via</h3>
 <p align="left">
 <a href="https://twitter.com/itskartikpawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itskartikpawar" height="20" width="30" /></a>
@@ -100,5 +100,3 @@ width="40" height="40"/> </a>
 <a href="https://kaggle.com/kartikpawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kartikpawar" height="20" width="30" /></a>
 <a href="https://instagram.com/itskartikpawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itskartikpawar" height="20" width="30" /></a>
 </p>
-
-<br/>
