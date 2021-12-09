@@ -89,7 +89,9 @@ width="40" height="40"/> </a>
     <a href="https://github.com/KartikPawar24/github-readme-stats"><img alt="Kartik Pawar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikPawar24&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
+<!--
 <a href="https://github.com/KartikPawar24/github-readme-activity-graph"><img alt="Kartik Pawar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KartikPawar24&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+-->
 
 <hr/>
 <h3 align="left">Connect with me on other platforms via</h3>
