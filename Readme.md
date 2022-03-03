@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/itskartikpawar" target="blank"><img src="https://img.shields.io/twitter/follow/itskartikpawar?logo=twitter&style=for-the-badge" alt="itskartikpawar" /></a> </p>
 
-- 🔭 I’m currently working on [Flight Fare Prediction](https://github.com/KartikPawar24/Flight-Fare-Prediction)
+- 🔭 I’m currently working on [E-Commerce Application](https://github.com/KartikPawar24/eshop-backend)
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
